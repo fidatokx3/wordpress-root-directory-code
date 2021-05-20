@@ -1,0 +1,2 @@
+$base = dirname(__FILE__);
+echo $base . "\asik";
